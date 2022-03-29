@@ -16,7 +16,7 @@ def run():
             response = client.create_tweet(text='GRÊMIO')
             time.sleep(1800)
         else:
-            print("Aguardando a hora do GREMIO")
+            print(data_e_hora_sao_paulo_em_texto + ": Aguardando a hora do GREMIO")
             time.sleep(1800)
 
 
