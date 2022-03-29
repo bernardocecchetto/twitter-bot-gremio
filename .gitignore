@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+# Secret Keys
+bot_gremio/credentials.py
 
 # Distribution / packaging
 .Python
