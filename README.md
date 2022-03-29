@@ -8,7 +8,7 @@ Create a BOT that conects to the Twitter's API and, everyday at 07:03 PM, it twi
 # Files
 
 FILES TREE
-`
+``` bash
  ┣ 📂.vscode
  ┃ ┗ 📜launch.json
  ┣ 📂bot_gremio
@@ -23,4 +23,4 @@ FILES TREE
  ┣ 📜README.md
  ┣ 📜requirements.txt
  ┗ 📜runtime.txt
- `
+ ```
