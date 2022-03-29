@@ -14,6 +14,8 @@ def run():
     while True:
         if data_e_hora_sao_paulo_em_texto == '19:03':
             response = client.create_tweet(text='GRÊMIO')
+        else:
+            print("Aguardando a hora do GREMIO")
 
 
 
