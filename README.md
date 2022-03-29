@@ -15,7 +15,6 @@ Create a BOT that conects to the Twitter's API and, everyday at 07:03 PM, it twi
  ┃ ┣ 📜credentials.py
  ┃ ┣ 📜__init__.py
  ┃ ┗ 📜__main__.py
- ┃ ┣ 📜.gitignore
  ┣ 📜.gitignore
  ┣ 📜LICENSE
  ┣ 📜Procfile
